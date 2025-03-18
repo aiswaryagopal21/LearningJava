@@ -1,8 +1,7 @@
 package ex_01_javaBasics;
 
-public class HelloWorld {
-
+public class Lab002_NoDesignPattern {
     public static void main(String[] args) {
-        System.out.println("Hello World");
+
     }
 }
