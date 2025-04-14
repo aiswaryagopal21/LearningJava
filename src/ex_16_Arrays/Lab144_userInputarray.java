@@ -22,5 +22,4 @@ public class Lab144_userInputarray {
         sc.close();
 
     }
-
 }
